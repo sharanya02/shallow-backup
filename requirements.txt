@@ -4,3 +4,4 @@ GitPython==3.1.0
 inquirer==2.6.3
 pytest==5.4.1
 pytest-cov==2.8.1
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
